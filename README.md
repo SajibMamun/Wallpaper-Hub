@@ -1,5 +1,8 @@
 # Wallpaper-Hub
-It's a Wallpaper App.
+--> It's a Wallpaper App.
+--> It's fetch data from Pixel API
+--> If you give any topic or things in the search dialouge than it will search that things pictures from Pixel Api
+--> Here i use pixel Api for development Purpose
 
 Splash Page | Home Page | Search | Nature | Flower | Trending | Animal | Sea | Cartoon
 --- | --- | --- |--- |--- | --- | --- |--- |--- |  
