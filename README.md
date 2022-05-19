@@ -1,6 +1,6 @@
 # Wallpaper-Hub
---> It's a Wallpaper App.
---> It's fetch data from Pixel API
+It's a Wallpaper App.\n
+It's fetch data from Pixel API.\n
 --> If you give any topic or things in the search dialouge than it will search that things pictures from Pixel Api
 --> Here i use pixel Api for development Purpose
 
