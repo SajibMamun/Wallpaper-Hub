@@ -1,8 +1,10 @@
 # Wallpaper-Hub
 - It's a Wallpaper App.
 - It's fetch data from Pixel API.
---> If you give any topic or things in the search dialouge than it will search that things pictures from Pixel Api
---> Here i use pixel Api for development Purpose
+- In this project i used [Java] Programming Language.
+- and Use [Retrofit] for fetching the data.
+- If you give any topic or things in the search dialouge than it will search that things pictures from Pixel Api.
+- i use pixel Api for my development Purpose.
 
 Splash Page | Home Page | Search | Nature | Flower | Trending | Animal | Sea | Cartoon
 --- | --- | --- |--- |--- | --- | --- |--- |--- |  
